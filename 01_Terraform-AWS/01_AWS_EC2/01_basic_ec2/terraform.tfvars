@@ -1,0 +1,1 @@
+# we can provide values for our variable using this file (optional) or we can provide directly while running terrafom apply command
